@@ -1,4 +1,4 @@
-# efood_multivendor
+# Food Application
 
 A new Flutter application.
 
